@@ -19,4 +19,4 @@ def hungry_river
     food *= 2 
   end 
 end
-hungry_river 
+hungry_river
